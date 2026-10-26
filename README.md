@@ -1,11 +1,14 @@
-# Xiangguo · 想过
+# 想过 · Xiangguo
 
-Public support and privacy website, hosted on GitHub Pages.
+Product introduction, support and privacy website.
 
-- Chinese: `index.html` / `privacy.html`
-- English: `en.html` / `privacy-en.html`
+- [中文](https://qq244358862.github.io/xiangguo-support/)
+- [English](https://qq244358862.github.io/xiangguo-support/en.html)
 - Contact: hello@tianmengdesign.com
 - Operator: TIANMENG (individual developer)
 
-Static HTML and CSS. No analytics, external fonts or client-side scripts.
-Policy content is generated from the app’s bilingual policy; update both together.
+The interface illustrations use fictional example notes. This site introduces
+the iPhone app; it does not provide an online recording or search service.
+
+Static HTML and CSS, with no analytics, external fonts or client-side scripts.
+Existing privacy URLs remain available at privacy.html and privacy-en.html.
