@@ -10,5 +10,4 @@ Product introduction, support and privacy website.
 The interface illustrations use fictional example notes. This site introduces
 the iPhone app; it does not provide an online recording or search service.
 
-Static HTML and CSS, with no analytics, external fonts or client-side scripts.
-Existing privacy URLs remain available at privacy.html and privacy-en.html.
+Read our [privacy policy](privacy.html) or [English privacy policy](privacy-en.html).
